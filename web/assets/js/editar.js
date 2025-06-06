@@ -131,8 +131,9 @@ function cadastrarProduto() {
         botao.querySelector("span").textContent = "CADASTRAR";
         botao.removeAttribute("data-id-edicao");
         
-        trocarConteudo('estoque');
         location.reload();
+        trocarConteudo('estoque');
+        
     })
     .catch(error => {
         console.error("Erro:", error);

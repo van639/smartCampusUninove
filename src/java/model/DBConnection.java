@@ -11,7 +11,7 @@ public class DBConnection {
     // Configurações de conexão
     private final String url = "jdbc:mysql://localhost:3306/smartcampus?useSSL=false&allowPublicKeyRetrieval=true";
     private final String user = "root";
-    private final String password = "lala1219";
+    private final String password = "12345678";
 
     private static DBConnection conexao = null;
 

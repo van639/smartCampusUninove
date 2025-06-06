@@ -72,15 +72,14 @@
                     <h1>Bem-vindo ao SmartCampus</h1>
                     <p class="txt-missao">
                         <br>Missão<br>
-                        Prover soluções inovadoras e eficientes para a gestão de estoques de supermercados, minimizando perdas de alimentos, garantindo o controle rigoroso das datas de validade e promovendo uma organização otimizada, com foco na redução de desperdícios e na melhoria contínua dos processos.
-
+                        Desenvolver soluções digitais inovadoras e acessíveis voltadas à gestão de estoque em empresas de pequeno e médio porte, proporcionando maior controle, organização e eficiência operacional, por meio da implementação de um sistema automatizado que atenda às reais necessidades do mercado, contribuindo para o crescimento dos negócios.
+                        
                         <br><br>Visão<br>
-                        Ser o sistema líder na gestão de estoques de supermercados, reconhecido pela excelência na prevenção de perdas, pelo impacto positivo na sustentabilidade e pela criação de um ambiente mais eficiente e organizado, contribuindo para uma experiência superior aos consumidores e para a rentabilidade dos negócios.
+                        Ser reconhecida como referência nacional no desenvolvimento de sistemas inovadores para a  gestão de estoque para pequenas e médias empresas, destacando-se pela entrega de soluções tecnológicas eficazes, com foco em usabilidade, escalabilidade e impacto direto na melhoria da administração empresarial.
 
                         <br><br>Valores<br>
-                        Sustentabilidade e Responsabilidade: Reduzimos desperdícios e promovemos práticas conscientes na gestão de alimentos.
-                        Eficiência e Organização: Buscamos otimizar processos, melhorando o controle e a organização do estoque.
-                        Comprometimento com o Cliente: Focamos em resultados que agreguem valor e melhorem a experiência do cliente.
+                        A empresa SmartCampus foi criada com o intuito de inovar, aprimorar e criar soluções tecnológicas que atendam às demandas do mercado e facilitem o dia a dia das empresas. 
+                        Nossas ações são direcionadas para atender às necessidades de nossos clientes com software de qualidade, garantindo resultados e superando expectativas. Temos compromisso com a usabilidade e a eficiência em tudo o que fazemos, buscando sempre alcançar a excelência em nossos processos.
                     </p>
                     <div id="container-img-apresentacao">
                         <img src="assets/img/fotos/apresentacao.png" alt="">
