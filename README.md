@@ -26,6 +26,9 @@ O **SmartCampus** é um sistema de gerenciamento de estoque que permite o cadast
 
 O projeto utilizou a metodologia ágil **Scrum**, com foco em entregas iterativas e colaborativas, promovendo flexibilidade e adaptação contínua às necessidades dos usuários.
 
+## 📙Documentação
+- [Documentação do projeto](https://drive.google.com/file/d/1AhXJNq4IIs8jcJb7gGnRhl8RbTuajToD/view?usp=drive_link)
+
 ## 📈 Resultados
 
 O sistema demonstrou ser:
